@@ -104,13 +104,8 @@ The board layout was carefully crafted to minimize parasitic resistance and stra
 ├── LTspice/
 │   └── *.asc                                 # LTspice circuit schematics and transient runs
 │
-├── docs/
-│   ├── circuit_diagrams.pdf                  # Full compiled documentation & schematics
-│   └── images/                               # Graphical assets for documentation
-│       ├── schematics.png
-│       ├── step_response.png
-│       ├── pcb_layout.png
-│       └── pcb_3d.png
+├── Images/
+│   ├── circuit_pid.pdf
 │
 ├── .gitignore                                # Ignores Altium/LTspice cache & log files
 └── README.md                                 # Main project documentation
